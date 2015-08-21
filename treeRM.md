@@ -1,3 +1,5 @@
+#for site ((( VirtualMeditationTree.com )))
+
 # 1) 5 seperate page templates for optimal functionality
 # 2) coorelate the quiz functions to the template type
 # 3) Store quiz results by the quiz type and then label the results by template skin 1-5

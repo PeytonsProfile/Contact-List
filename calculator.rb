@@ -11,7 +11,7 @@ def secondNumber
 end
 
 def question
-puts 'Would you like to [add] or [subtract] or [multiply] or [divide]'
+puts 'Would you like to [add] or [subtract], [multiply] or [divide]?
 
 operator = gets.chomp
 
